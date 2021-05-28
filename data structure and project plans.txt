@@ -1,0 +1,29 @@
+data structure and project plans
+
+
+app
+    model
+        model folder name
+            model file
+            query builder file
+
+app
+    http
+        controllers
+            admin folder
+            customer folder
+            branch folder
+            helper
+
+views
+
+    components
+        admin
+            pages
+            includes
+        branch
+            pages
+            includes
+        customer
+            pages
+            includes
